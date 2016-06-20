@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+<title>data-table TEST</title>
+<link rel="stylesheet" href="//cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="css/datatable.css" />
+<script src="//code.jquery.com/jquery-1.12.3.min.js"></script>
+<script src="//cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
+<script src="js/init.js"></script>
+</head>
+<body>
+	<h1>킹덤스토리 장수정보<span>Update 2016.6.19</span></h1>
+	<div class="filter-area">
+			<h2>필터</h2>
+		  <div class="form-group">
+		    <label for="dropdown1">나라</label>
+				<select id="dropdown1">
+				 <option value="">전체</option>
+				  <option value="위">위나라</option>
+				  <option value="촉">촉나라</option>
+					<option value="오">오나라</option>
+					<option value="한">한나라</option>
+					<option value="황">황건적</option>
+					<option value="이">이민족</option>
+				</select>
+	    </div>
+		  <div class="form-group">
+		    <label for="dropdown2">직업</label>
+				<select id="dropdown2">
+					<option value="">전체</option>
+					<option value="맹장">맹장</option>
+					<option value="용장">용장</option>
+					<option value="명궁">명궁</option>
+					<option value="군주">군주</option>
+					<option value="책사">책사</option>
+				</select>
+		  </div>
+	</div>
+	
+
+	<table id="kindom-data" class="display" cellspacing="0" width="100%">
+		<thead>
+			<tr>
+				<th>나라</th>
+				<th>직업</th>
+				<th>등급</th>
+				<th>이름</th>
+				<th>공격력</th>
+				<th>방어력</th>
+				<th>체력</th>
+				<th>체력회복</th>
+				<th>태수</th>
+				<th>특성</th>
+			</tr>
+		</thead>
+	</table>
+</body>
+</html>

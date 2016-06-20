@@ -39,10 +39,9 @@ $(document).ready(function() {
             else if(data.job == "책사") return Math.floor(data.str*0.6);
             else return 0;
           } },
-          { "data": "castle" },
-          { "data": "etc","sClass":"text-left" },
           { "data": "skill1","sClass":"text-left" },
-          { "data": "skill2","sClass":"text-left" }
+          { "data": "skill2","sClass":"text-left" },
+          { "data": "etc","sClass":"text-left" }
         ]
     } );
     

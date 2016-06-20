@@ -1,7 +1,7 @@
 {
 	"data": [
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "여포",
@@ -13,7 +13,7 @@
 			"skill2": "공포"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "장비",
@@ -25,7 +25,7 @@
 			"skill2": "공격증가"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "문추",
@@ -37,7 +37,7 @@
 			"skill2": "공격증가,방탄"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "장합",
@@ -49,7 +49,7 @@
 			"skill2": "높이뜸, 기절"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "능통",
@@ -61,7 +61,7 @@
 			"skill2": "(출혈) 기절"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "서황",
@@ -73,7 +73,7 @@
 			"skill2": "피해감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "악진",
@@ -85,7 +85,7 @@
 			"skill2": "피해감소"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "관평",
@@ -97,7 +97,7 @@
 			"skill2": "침묵"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "반장",
@@ -109,7 +109,7 @@
 			"skill2": "정화"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "허저",
@@ -121,7 +121,7 @@
 			"skill2": "(출혈) 기절"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "고람",
@@ -133,7 +133,7 @@
 			"skill2": "저항증가"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "마대",
@@ -145,7 +145,7 @@
 			"skill2": "(높이뜸) 쓰러짐"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "여령기",
@@ -157,7 +157,7 @@
 			"skill2": "공포,어둠저항감소"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "맹장",
 			"class": 3,
 			"name": "사마가",
@@ -169,7 +169,7 @@
 			"skill2": "피해감소"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "서성",
@@ -181,7 +181,7 @@
 			"skill2": "(높이뜸) 쓰러짐"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "장수",
@@ -193,7 +193,7 @@
 			"skill2": "저항증가"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "맹장",
 			"class": 3,
 			"name": "장량",
@@ -205,7 +205,7 @@
 			"skill2": "물리면역"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "무안국",
@@ -217,7 +217,7 @@
 			"skill2": "치유"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "정봉",
@@ -229,7 +229,7 @@
 			"skill2": "공격증가"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "우금",
@@ -241,7 +241,7 @@
 			"skill2": "(높이뜸) 쓰러짐"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "능조",
@@ -253,7 +253,7 @@
 			"skill2": "피해감소"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "장포",
@@ -265,7 +265,7 @@
 			"skill2": "(출혈) 기절"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "호거아",
@@ -277,7 +277,7 @@
 			"skill2": "공속증가"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "맹장",
 			"class": 3,
 			"name": "정원지",
@@ -289,7 +289,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 3,
 			"name": "조무",
@@ -301,7 +301,7 @@
 			"skill2": "(빙결) 쓰러짐"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "송현",
@@ -313,7 +313,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "관흥",
@@ -325,7 +325,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "장연",
@@ -337,7 +337,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "맹장",
 			"class": 2,
 			"name": "금환삼결",
@@ -349,7 +349,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "맹장",
 			"class": 2,
 			"name": "망아장",
@@ -361,7 +361,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "하후상",
@@ -373,7 +373,7 @@
 			"skill2": "피해감소"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "뇌동",
@@ -385,7 +385,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "하후패",
@@ -397,7 +397,7 @@
 			"skill2": "(출혈) 기절"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "공손월",
@@ -409,7 +409,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "형도영",
@@ -421,7 +421,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "맹장",
 			"class": 2,
 			"name": "순우경",
@@ -433,7 +433,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "관우",
@@ -445,7 +445,7 @@
 			"skill2": "청룡의수호"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "위연",
@@ -457,7 +457,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "황월영",
@@ -469,7 +469,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "방덕",
@@ -481,7 +481,7 @@
 			"skill2": "(빙결) 쓰러짐"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "변황후",
@@ -493,7 +493,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "전위",
@@ -505,7 +505,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "하후돈",
@@ -517,7 +517,7 @@
 			"skill2": "흡혈"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "감녕",
@@ -529,7 +529,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "맹장",
 			"class": 4,
 			"name": "손견",
@@ -541,7 +541,7 @@
 			"skill2": "무적"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "맹장",
 			"class": 4,
 			"name": "관해",
@@ -553,7 +553,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "맹장",
 			"class": 4,
 			"name": "축융부인",
@@ -565,7 +565,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "용장",
 			"class": 4,
 			"name": "손책",
@@ -577,7 +577,7 @@
 			"skill2": "공격증가,치명타증가"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "용장",
 			"class": 4,
 			"name": "안량",
@@ -589,7 +589,7 @@
 			"skill2": "방어감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 4,
 			"name": "문앙",
@@ -601,7 +601,7 @@
 			"skill2": "(기절) 빙결"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 4,
 			"name": "만총",
@@ -613,7 +613,7 @@
 			"skill2": "(높이뜸)"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 4,
 			"name": "왕평",
@@ -625,7 +625,7 @@
 			"skill2": "(기절) 독"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "용장",
 			"class": 4,
 			"name": "황개",
@@ -637,7 +637,7 @@
 			"skill2": "(실명)"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 4,
 			"name": "등애",
@@ -649,7 +649,7 @@
 			"skill2": "(출혈)"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "용장",
 			"class": 4,
 			"name": "기령",
@@ -661,7 +661,7 @@
 			"skill2": "(실명)"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 4,
 			"name": "문빙",
@@ -673,7 +673,7 @@
 			"skill2": "(기절) 흡혈"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 3,
 			"name": "종회",
@@ -685,7 +685,7 @@
 			"skill2": "(기절) 침묵"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 3,
 			"name": "조창",
@@ -697,7 +697,7 @@
 			"skill2": "(기절) 흡혈"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 3,
 			"name": "이엄",
@@ -709,7 +709,7 @@
 			"skill2": "(높이뜸) 공속감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 3,
 			"name": "이전",
@@ -721,7 +721,7 @@
 			"skill2": "(기절) 침묵"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 3,
 			"name": "진태",
@@ -733,7 +733,7 @@
 			"skill2": "(기절) 침묵"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "용장",
 			"class": 3,
 			"name": "정보",
@@ -745,7 +745,7 @@
 			"skill2": "(쓰러짐)"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "용장",
 			"class": 3,
 			"name": "올돌골",
@@ -757,7 +757,7 @@
 			"skill2": "감속"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "용장",
 			"class": 3,
 			"name": "손상향",
@@ -769,7 +769,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 2,
 			"name": "곽회",
@@ -781,7 +781,7 @@
 			"skill2": "(독) 출혈"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 2,
 			"name": "유봉",
@@ -793,7 +793,7 @@
 			"skill2": "(기절) 독"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "용장",
 			"class": 2,
 			"name": "염행",
@@ -805,7 +805,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "용장",
 			"class": 2,
 			"name": "여대",
@@ -817,7 +817,7 @@
 			"skill2": "(높이뜸)"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "용장",
 			"class": 2,
 			"name": "곽사",
@@ -829,7 +829,7 @@
 			"skill2": "(기절) 침묵"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "용장",
 			"class": 2,
 			"name": "마등",
@@ -841,7 +841,7 @@
 			"skill2": "(기절) 흡혈"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 2,
 			"name": "요화",
@@ -853,7 +853,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "용장",
 			"class": 2,
 			"name": "아회남",
@@ -865,7 +865,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "용장",
 			"class": 2,
 			"name": "반봉",
@@ -877,7 +877,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 2,
 			"name": "주창",
@@ -889,7 +889,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 2,
 			"name": "장익",
@@ -901,7 +901,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 4,
 			"name": "장료",
@@ -913,7 +913,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 4,
 			"name": "마초",
@@ -925,7 +925,7 @@
 			"skill2": "실명"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 4,
 			"name": "조운",
@@ -937,7 +937,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "용장",
 			"class": 4,
 			"name": "여몽",
@@ -949,7 +949,7 @@
 			"skill2": "침묵"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "용장",
 			"class": 4,
 			"name": "육항",
@@ -961,7 +961,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "용장",
 			"class": 4,
 			"name": "초선",
@@ -973,7 +973,7 @@
 			"skill2": "(아군상태이상) 정화"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 2,
 			"name": "조홍",
@@ -985,7 +985,7 @@
 			"skill2": "(화상) 쓰러짐"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "하후연",
@@ -997,7 +997,7 @@
 			"skill2": "피해증가"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "황충",
@@ -1009,7 +1009,7 @@
 			"skill2": "(기절) 기력감소"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "강유",
@@ -1021,7 +1021,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "주태",
@@ -1033,7 +1033,7 @@
 			"skill2": "(기절) 화상"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "조인",
@@ -1045,7 +1045,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "엄안",
@@ -1057,7 +1057,7 @@
 			"skill2": "치유"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "양호",
@@ -1069,7 +1069,7 @@
 			"skill2": "(독)징표"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "학소",
@@ -1081,7 +1081,7 @@
 			"skill2": "피해감소"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "명궁",
 			"class": 3,
 			"name": "냉포",
@@ -1093,7 +1093,7 @@
 			"skill2": "실명"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "명궁",
 			"class": 3,
 			"name": "장보",
@@ -1105,7 +1105,7 @@
 			"skill2": "(독) 공속감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 3,
 			"name": "조진",
@@ -1117,7 +1117,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "명궁",
 			"class": 3,
 			"name": "마속",
@@ -1129,7 +1129,7 @@
 			"skill2": "(높이뜸) 쓰러짐"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "명궁",
 			"class": 3,
 			"name": "한수",
@@ -1141,7 +1141,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "명궁",
 			"class": 3,
 			"name": "황조",
@@ -1153,7 +1153,7 @@
 			"skill2": "실명"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "명궁",
 			"class": 2,
 			"name": "한당",
@@ -1165,7 +1165,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "명궁",
 			"class": 2,
 			"name": "후성",
@@ -1177,7 +1177,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "명궁",
 			"class": 2,
 			"name": "유벽",
@@ -1189,7 +1189,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "맹달",
@@ -1201,7 +1201,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "육손",
@@ -1213,7 +1213,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "태사자",
@@ -1225,7 +1225,7 @@
 			"skill2": "흡혈"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "고순",
@@ -1237,7 +1237,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "명궁",
 			"class": 4,
 			"name": "화웅",
@@ -1249,7 +1249,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 3,
 			"name": "전예",
@@ -1261,7 +1261,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 4,
 			"name": "사마의",
@@ -1273,7 +1273,7 @@
 			"skill2": "공속감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 4,
 			"name": "곽가",
@@ -1285,7 +1285,7 @@
 			"skill2": "저항감소"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 4,
 			"name": "주유",
@@ -1297,7 +1297,7 @@
 			"skill2": "화상"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 4,
 			"name": "방통",
@@ -1309,7 +1309,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 4,
 			"name": "전풍",
@@ -1321,7 +1321,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 4,
 			"name": "서서",
@@ -1333,7 +1333,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 4,
 			"name": "순유",
@@ -1345,7 +1345,7 @@
 			"skill2": "(실명) 혼란"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 4,
 			"name": "제갈근",
@@ -1357,7 +1357,7 @@
 			"skill2": "(화상) 쓰러짐"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 4,
 			"name": "소교",
@@ -1369,7 +1369,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 4,
 			"name": "이유",
@@ -1381,7 +1381,7 @@
 			"skill2": "(기절)(쓰러짐) 무적"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 4,
 			"name": "추부인",
@@ -1393,7 +1393,7 @@
 			"skill2": "저항감소"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 3,
 			"name": "장소",
@@ -1405,7 +1405,7 @@
 			"skill2": "(기절) 보호막"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 3,
 			"name": "저수",
@@ -1417,7 +1417,7 @@
 			"skill2": "저항감소"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 3,
 			"name": "장완",
@@ -1429,7 +1429,7 @@
 			"skill2": "(화상) 쓰러짐"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 3,
 			"name": "마량",
@@ -1441,7 +1441,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 3,
 			"name": "비의",
@@ -1453,7 +1453,7 @@
 			"skill2": "치유"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 3,
 			"name": "심배",
@@ -1465,7 +1465,7 @@
 			"skill2": "(실명) 혼란"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 3,
 			"name": "진등",
@@ -1477,7 +1477,7 @@
 			"skill2": "정화"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 3,
 			"name": "괴량",
@@ -1489,7 +1489,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 3,
 			"name": "동윤",
@@ -1501,7 +1501,7 @@
 			"skill2": "저항감소"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 3,
 			"name": "괴월",
@@ -1513,7 +1513,7 @@
 			"skill2": "치유,정화"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 3,
 			"name": "신헌영",
@@ -1525,7 +1525,7 @@
 			"skill2": "치유,정화"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 3,
 			"name": "양수",
@@ -1537,7 +1537,7 @@
 			"skill2": "화상"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 3,
 			"name": "조식",
@@ -1549,7 +1549,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 3,
 			"name": "채염",
@@ -1561,7 +1561,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "진림",
@@ -1573,7 +1573,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 2,
 			"name": "등지",
@@ -1585,7 +1585,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 2,
 			"name": "장송",
@@ -1597,7 +1597,7 @@
 			"skill2": "(실명) 혼란"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 2,
 			"name": "보즐",
@@ -1609,7 +1609,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 2,
 			"name": "장굉",
@@ -1621,7 +1621,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 2,
 			"name": "제갈각",
@@ -1633,7 +1633,7 @@
 			"skill2": "저항감소"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "공용",
@@ -1645,7 +1645,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 2,
 			"name": "제갈탄",
@@ -1657,7 +1657,7 @@
 			"skill2": "실명,혼란"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "양홍",
@@ -1669,7 +1669,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 2,
 			"name": "동화",
@@ -1681,7 +1681,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "도겸",
@@ -1693,7 +1693,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "유언",
@@ -1705,7 +1705,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 2,
 			"name": "간옹",
@@ -1717,7 +1717,7 @@
 			"skill2": "기절"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 2,
 			"name": "미축",
@@ -1729,7 +1729,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 2,
 			"name": "손건",
@@ -1741,7 +1741,7 @@
 			"skill2": "치유,정화"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 2,
 			"name": "황권",
@@ -1753,7 +1753,7 @@
 			"skill2": "(기절) 방어감소"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "왕윤",
@@ -1765,7 +1765,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "유표",
@@ -1777,7 +1777,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 2,
 			"name": "하후현",
@@ -1789,7 +1789,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "염상",
@@ -1801,7 +1801,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 2,
 			"name": "유장",
@@ -1813,7 +1813,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 2,
 			"name": "허유",
@@ -1825,7 +1825,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 2,
 			"name": "신비",
@@ -1837,7 +1837,7 @@
 			"skill2": "기력감소"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 4,
 			"name": "정욱",
@@ -1849,7 +1849,7 @@
 			"skill2": "(기절)(쓰러짐) 무적"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 4,
 			"name": "법정",
@@ -1861,7 +1861,7 @@
 			"skill2": "실명"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 4,
 			"name": "제갈량",
@@ -1873,7 +1873,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 4,
 			"name": "노숙",
@@ -1885,7 +1885,7 @@
 			"skill2": "(쓰러짐) 방어감소"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 4,
 			"name": "대교",
@@ -1897,7 +1897,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 4,
 			"name": "가후",
@@ -1909,7 +1909,7 @@
 			"skill2": "기력감소"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "책사",
 			"class": 4,
 			"name": "진궁",
@@ -1921,7 +1921,7 @@
 			"skill2": "(화상) 쓰러짐"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "책사",
 			"class": 2,
 			"name": "양부",
@@ -1933,7 +1933,7 @@
 			"skill2": "보호막"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "군주",
 			"class": 4,
 			"name": "손권",
@@ -1945,7 +1945,7 @@
 			"skill2": "무적"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "군주",
 			"class": 3,
 			"name": "손등",
@@ -1957,7 +1957,7 @@
 			"skill2": "버프제거"
 		},
 		{
-			"country": "오",
+			"country": "오나라",
 			"job": "책사",
 			"class": 1,
 			"name": "우번",
@@ -1969,7 +1969,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "맹장",
 			"class": 1,
 			"name": "왕쌍",
@@ -1981,7 +1981,7 @@
 			"skill2": "(높이뜸) 쓰러짐"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 1,
 			"name": "사환",
@@ -1993,7 +1993,7 @@
 			"skill2": "빙결"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "용장",
 			"class": 1,
 			"name": "왕릉",
@@ -2005,7 +2005,7 @@
 			"skill2": "(기절)"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 1,
 			"name": "채모",
@@ -2017,7 +2017,7 @@
 			"skill2": "(출혈) 높이뜸"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 1,
 			"name": "채화",
@@ -2029,7 +2029,7 @@
 			"skill2": "(출혈) 출혈"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "명궁",
 			"class": 1,
 			"name": "하후은",
@@ -2041,7 +2041,7 @@
 			"skill2": "(독) 징표"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "군주",
 			"class": 4,
 			"name": "사마사",
@@ -2053,7 +2053,7 @@
 			"skill2": "치유"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "군주",
 			"class": 4,
 			"name": "조비",
@@ -2065,7 +2065,7 @@
 			"skill2": "(침묵) 보호막, 정화"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "군주",
 			"class": 4,
 			"name": "조조",
@@ -2077,7 +2077,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "군주",
 			"class": 3,
 			"name": "사마소",
@@ -2089,7 +2089,7 @@
 			"skill2": "침묵"
 		},
 		{
-			"country": "위",
+			"country": "위나라",
 			"job": "군주",
 			"class": 3,
 			"name": "사마염",
@@ -2101,7 +2101,7 @@
 			"skill2": "(기절)(쓰러짐) 무적"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 1,
 			"name": "배원소",
@@ -2113,7 +2113,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 1,
 			"name": "부사인",
@@ -2125,7 +2125,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "용장",
 			"class": 1,
 			"name": "상총",
@@ -2137,7 +2137,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "명궁",
 			"class": 1,
 			"name": "진식",
@@ -2149,7 +2149,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "군주",
 			"class": 4,
 			"name": "유비",
@@ -2161,7 +2161,7 @@
 			"skill2": "정화"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "군주",
 			"class": 1,
 			"name": "유선",
@@ -2173,7 +2173,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "촉",
+			"country": "촉나라",
 			"job": "책사",
 			"class": 1,
 			"name": "미방",
@@ -2185,7 +2185,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 4,
 			"name": "공손찬",
@@ -2197,7 +2197,7 @@
 			"skill2": "정화"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 4,
 			"name": "동탁",
@@ -2209,7 +2209,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 4,
 			"name": "원소",
@@ -2221,7 +2221,7 @@
 			"skill2": "방탄"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 3,
 			"name": "원술",
@@ -2233,7 +2233,7 @@
 			"skill2": "(기절) 무적"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 2,
 			"name": "장로",
@@ -2245,7 +2245,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 2,
 			"name": "금선",
@@ -2257,7 +2257,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 2,
 			"name": "원상",
@@ -2269,7 +2269,7 @@
 			"skill2": "무효화"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 2,
 			"name": "유도",
@@ -2281,7 +2281,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 2,
 			"name": "조범",
@@ -2293,7 +2293,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "한",
+			"country": "한나라",
 			"job": "군주",
 			"class": 2,
 			"name": "한현",
@@ -2305,7 +2305,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "용장",
 			"class": 1,
 			"name": "장만성",
@@ -2317,7 +2317,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "용장",
 			"class": 1,
 			"name": "조홍",
@@ -2329,7 +2329,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "군주",
 			"class": 4,
 			"name": "장각",
@@ -2341,7 +2341,7 @@
 			"skill2": "기절"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "책사",
 			"class": 1,
 			"name": "마원의",
@@ -2353,7 +2353,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "책사",
 			"class": 1,
 			"name": "변희",
@@ -2365,7 +2365,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "황",
+			"country": "황건적",
 			"job": "책사",
 			"class": 1,
 			"name": "한충",
@@ -2377,7 +2377,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "군주",
 			"class": 4,
 			"name": "맹획",
@@ -2389,7 +2389,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "맹장",
 			"class": 1,
 			"name": "대래동주",
@@ -2401,7 +2401,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "맹장",
 			"class": 1,
 			"name": "동도나",
@@ -2413,7 +2413,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "명궁",
 			"class": 1,
 			"name": "맹우",
@@ -2425,7 +2425,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "용장",
 			"class": 1,
 			"name": "목록대왕",
@@ -2437,7 +2437,7 @@
 			"skill2": "-"
 		},
 		{
-			"country": "이",
+			"country": "이민족",
 			"job": "책사",
 			"class": 1,
 			"name": "타사대왕",

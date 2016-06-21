@@ -6,13 +6,14 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
 <title>킹덤스토리 장수정보</title>
 <link rel="stylesheet" href="//cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/xeicon/2/xeicon.min.css">
 <link rel="stylesheet" href="css/datatable.css" />
 <script src="//code.jquery.com/jquery-1.12.3.min.js"></script>
 <script src="//cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
 <script src="js/init.js"></script>
 </head>
 <body>
-	<h1>킹덤스토리 장수정보<span>Update 2016.6.20-v1</span></h1>
+	<h1>킹덤스토리 장수정보<span>Update 2016.6.21</span></h1>
 	<div class="filter-area">
 			<h2>필터</h2>
 		  <div class="form-group">
@@ -52,11 +53,26 @@
 				<th>방어력</th>
 				<th>체력</th>
 				<th>체력회복</th>
-				<th>스킬1</th>
+				<th>스킬1<i class="xi-info-o"></i></th>
 				<th>스킬2</th>
 				<th>기타</th>
 			</tr>
 		</thead>
 	</table>
+	<div class="skill-layer">
+		<ul>
+			<li><strong>무효화</strong> : 이로운 효과 제거</li>
+			<li><strong>정화</strong> : 해로운 효과 제거</li>
+			<li><strong>강인함</strong>: 해로운 효과 면역</li>
+			<li><strong>보호막</strong> : 일정량의 피해흡수</li>
+			<li><strong>침묵</strong> : 스킬사용 불가</li>
+			<li><strong>청룡의수호</strong> : 일정 횟수의 피해면역</li>
+			<li><strong>무적</strong> : 모든 피해면역</li>
+			<li><strong>밀치기</strong> : 뒤로 밀어냄</li>
+			<li><strong>수호</strong> : 적의 공격 무력화</li>
+			<li><strong>징표</strong> : 모든 원거리 공격의 대상이됨</li>
+			<li><strong>돌풍</strong> : 투사체를 튕겨냄</li>
+		</ul>
+	</div>
 </body>
 </html>

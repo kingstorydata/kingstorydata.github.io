@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
     var table = $('#kindom-data').DataTable( {
         "ajax": "data/test.json",
@@ -52,4 +51,9 @@ $(document).ready(function() {
     $('#dropdown2').on('change', function () { // 직업
       table.columns(1).search( this.value ).draw();
     } );
+    $('i.xi-info-o').hover(function() {
+      var offset = $(this).offset();
+      $('.skill-layer').toggle('on');
+      $('.skill-layer').offset({top:offset.top,left:offset.left+30})
+    });
 } );

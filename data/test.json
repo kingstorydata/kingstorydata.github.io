@@ -777,8 +777,8 @@
 			"int": 164,
 			"dex": 162,
 			"etc": "-",
-			"skill1": "출혈",
-			"skill2": "(독) 출혈"
+			"skill1": "<span class=\"badge\">임의적 최대 3회</span> 출혈",
+			"skill2": "<span class=\"badge\">적 1명</span> (독) 출혈"
 		},
 		{
 			"country": "촉나라",
@@ -789,8 +789,8 @@
 			"int": 113,
 			"dex": 155,
 			"etc": "태수",
-			"skill1": "높이뜸,기절",
-			"skill2": "(기절) 독"
+			"skill1": "<span class=\"badge\">적 1명</span>높이뜸,기절",
+			"skill2": "<span class=\"badge\">적 1명</span> (침묵) 화염피해"
 		},
 		{
 			"country": "한나라",
@@ -801,8 +801,8 @@
 			"int": 136,
 			"dex": 158,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1열</span> 기력감소",
+			"skill2": "<span class=\"badge\">적 1열</span> (실명) 어둠피해"
 		},
 		{
 			"country": "오나라",
@@ -813,8 +813,8 @@
 			"int": 145,
 			"dex": 153,
 			"etc": "-",
-			"skill1": "출혈",
-			"skill2": "(높이뜸)"
+			"skill1": "<span class=\"badge\">적 1열</span> 출혈",
+			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 자연피해"
 		},
 		{
 			"country": "한나라",
@@ -825,8 +825,8 @@
 			"int": 68,
 			"dex": 153,
 			"etc": "-",
-			"skill1": "출혈",
-			"skill2": "(기절) 침묵"
+			"skill1": "<span class=\"badge\">적 1열</span> 출혈",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 침묵"
 		},
 		{
 			"country": "한나라",
@@ -837,8 +837,8 @@
 			"int": 132,
 			"dex": 155,
 			"etc": "-",
-			"skill1": "기절",
-			"skill2": "(기절) 흡혈"
+			"skill1": "<span class=\"badge\">적 최대 3회</span> 기절",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 흡혈"
 		},
 		{
 			"country": "촉나라",
@@ -848,9 +848,9 @@
 			"str": 149,
 			"int": 117,
 			"dex": 151,
-			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"etc": "태수",
+			"skill1": "<span class=\"badge\">적 1명</span> 쓰러짐",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 흡혈"
 		},
 		{
 			"country": "이민족",
@@ -861,8 +861,8 @@
 			"int": 77,
 			"dex": 149,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1열</span> 기력감소",
+			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 어둠피해"
 		},
 		{
 			"country": "한나라",
@@ -873,8 +873,8 @@
 			"int": 51,
 			"dex": 149,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">임의적 15회</span> 독",
+			"skill2": "<span class=\"badge\">적 2명</span> 감속"
 		},
 		{
 			"country": "촉나라",
@@ -885,8 +885,8 @@
 			"int": 64,
 			"dex": 149,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1열</span> 화상",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 침묵"
 		},
 		{
 			"country": "촉나라",
@@ -897,8 +897,8 @@
 			"int": 128,
 			"dex": 145,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1명</span> 출혈",
+			"skill2": "<span class=\"badge\">적 1명</span> (출혈) 자연피해"
 		},
 		{
 			"country": "위나라",
@@ -981,8 +981,8 @@
 			"int": 94,
 			"dex": 151,
 			"etc": "태수",
-			"skill1": "방어감소",
-			"skill2": "(화상) 쓰러짐"
+			"skill1": "<span class=\"badge\">적 1열</span> 방어감소",
+			"skill2": "<span class=\"badge\">적 1명</span> (화상) 쓰러짐"
 		},
 		{
 			"country": "위나라",
@@ -1221,7 +1221,7 @@
 			"int": 490,
 			"dex": 630,
 			"etc": "스타터",
-			"skill1": "<span class=\"badge\">임의적 10발</span> 기력감소",
+			"skill1": "<span class=\"badge\">임의적 10발</span> 기력감소<br><span class=\"badge\">아군 전체</span> 치유",
 			"skill2": "<span class=\"badge\">임의적 3명</span> 흡혈"
 		},
 		{
@@ -1569,8 +1569,8 @@
 			"int": 162,
 			"dex": 102,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">적 1명</span> 기력감소"
 		},
 		{
 			"country": "촉나라",
@@ -1581,8 +1581,8 @@
 			"int": 160,
 			"dex": 124,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 기절",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막"
 		},
 		{
 			"country": "촉나라",
@@ -1593,8 +1593,8 @@
 			"int": 160,
 			"dex": 111,
 			"etc": "-",
-			"skill1": "혼란",
-			"skill2": "(실명) 혼란"
+			"skill1": "<span class=\"badge\">적 최대 3명</span> 혼란",
+			"skill2": "<span class=\"badge\">적 1명</span> (실명) 혼란"
 		},
 		{
 			"country": "오나라",
@@ -1605,8 +1605,8 @@
 			"int": 158,
 			"dex": 143,
 			"etc": "금화5",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">적 1명</span> (화상) 화상"
 		},
 		{
 			"country": "오나라",
@@ -1617,8 +1617,8 @@
 			"int": 158,
 			"dex": 109,
 			"etc": "태수",
-			"skill1": "출혈",
-			"skill2": "보호막"
+			"skill1": "<span class=\"badge\">적 전체</span> 출혈",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막"
 		},
 		{
 			"country": "오나라",
@@ -1629,20 +1629,20 @@
 			"int": 158,
 			"dex": 147,
 			"etc": "아이템15",
-			"skill1": "기절",
-			"skill2": "저항감소"
+			"skill1": "<span class=\"badge\">적 전체</span> 기절",
+			"skill2": "<span class=\"badge\">적 1열</span> 저항감소"
 		},
 		{
 			"country": "한나라",
 			"job": "책사",
 			"class": 2,
-			"name": "공용",
+			"name": "공융",
 			"str": 62,
 			"int": 158,
 			"dex": 81,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 빙결",
+			"skill2": "<span class=\"badge\">적 1열</span> 저항감소"
 		},
 		{
 			"country": "위나라",
@@ -1653,8 +1653,8 @@
 			"int": 155,
 			"dex": 134,
 			"etc": "-",
-			"skill1": "방어감소",
-			"skill2": "실명,혼란"
+			"skill1": "<span class=\"badge\">임의적 4명</span> 방어감소",
+			"skill2": "<span class=\"badge\">적 1명</span> (실명) 혼란"
 		},
 		{
 			"country": "한나라",
@@ -1665,8 +1665,8 @@
 			"int": 155,
 			"dex": 117,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 독",
+			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 치유,정화"
 		},
 		{
 			"country": "촉나라",
@@ -1677,8 +1677,8 @@
 			"int": 153,
 			"dex": 124,
 			"etc": "태수,조공10",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 빙결",
+			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적"
 		},
 		{
 			"country": "한나라",
@@ -1689,8 +1689,8 @@
 			"int": 153,
 			"dex": 145,
 			"etc": "금화5",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 치유,정화"
 		},
 		{
 			"country": "한나라",
@@ -1701,8 +1701,8 @@
 			"int": 153,
 			"dex": 119,
 			"etc": "아이템15",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">임의적 주변</span> 쓰러짐",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막"
 		},
 		{
 			"country": "촉나라",
@@ -1713,8 +1713,8 @@
 			"int": 151,
 			"dex": 102,
 			"etc": "아이템10",
-			"skill1": "출혈",
-			"skill2": "기절"
+			"skill1": "<span class=\"badge\">적 전체</span> 출혈",
+			"skill2": "<span class=\"badge\">적 전체</span> 기절"
 		},
 		{
 			"country": "촉나라",
@@ -1725,8 +1725,8 @@
 			"int": 151,
 			"dex": 115,
 			"etc": "태수",
-			"skill1": "빙결",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 빙결",
+			"skill2": "<span class=\"badge\">적 1명</span> 기력감소"
 		},
 		{
 			"country": "촉나라",
@@ -1737,8 +1737,8 @@
 			"int": 151,
 			"dex": 113,
 			"etc": "금화10",
-			"skill1": "화상",
-			"skill2": "치유,정화"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 치유,정화"
 		},
 		{
 			"country": "촉나라",
@@ -1749,8 +1749,8 @@
 			"int": 151,
 			"dex": 128,
 			"etc": "금화5",
-			"skill1": "공속감소",
-			"skill2": "(기절) 방어감소"
+			"skill1": "<span class=\"badge\">임의적 4명</span> 공속감소",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 방어감소"
 		},
 		{
 			"country": "한나라",
@@ -1761,8 +1761,8 @@
 			"int": 151,
 			"dex": 107,
 			"etc": "태수",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 출혈",
+			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적"
 		},
 		{
 			"country": "한나라",
@@ -1773,8 +1773,8 @@
 			"int": 151,
 			"dex": 132,
 			"etc": "태수",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 빙결",
+			"skill2": "<span class=\"badge\">적 1명</span> (실명) 혼란"
 		},
 		{
 			"country": "위나라",
@@ -1785,8 +1785,8 @@
 			"int": 149,
 			"dex": 117,
 			"etc": "-",
-			"skill1": "화상",
-			"skill2": "보호막"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막"
 		},
 		{
 			"country": "한나라",
@@ -1797,8 +1797,8 @@
 			"int": 149,
 			"dex": 119,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 최대 3명</span> 혼란",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막"
 		},
 		{
 			"country": "한나라",
@@ -1809,8 +1809,8 @@
 			"int": 149,
 			"dex": 111,
 			"etc": "태수",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">임의적 4명</span> 방어감소",
+			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적"
 		},
 		{
 			"country": "위나라",
@@ -1821,8 +1821,8 @@
 			"int": 147,
 			"dex": 126,
 			"etc": "금화5",
-			"skill1": "혼란",
-			"skill2": "보호막"
+			"skill1": "<span class=\"badge\">적 최대 3명</span> 혼란",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막"
 		},
 		{
 			"country": "위나라",
@@ -1833,8 +1833,8 @@
 			"int": 145,
 			"dex": 117,
 			"etc": "아이템10",
-			"skill1": "피해증가",
-			"skill2": "기력감소"
+			"skill1": "<span class=\"badge\">적 전체</span> 피해증가",
+			"skill2": "<span class=\"badge\">적 1명</span> 기력감소"
 		},
 		{
 			"country": "위나라",
@@ -1929,8 +1929,8 @@
 			"int": 153,
 			"dex": 128,
 			"etc": "태수",
-			"skill1": "화상",
-			"skill2": "보호막"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막"
 		},
 		{
 			"country": "오나라",
@@ -1965,8 +1965,8 @@
 			"int": 87,
 			"dex": 72,
 			"etc": "아이템10",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 최대 3명</span> 혼란",
+			"skill2": "<span class=\"badge\">적 1명</span> (화상) 쓰러짐"
 		},
 		{
 			"country": "위나라",
@@ -1989,8 +1989,8 @@
 			"int": 29,
 			"dex": 72,
 			"etc": "-",
-			"skill1": "방어감소",
-			"skill2": "빙결"
+			"skill1": "<span class=\"badge\">임의적 4명</span> 방어감소",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 빙결"
 		},
 		{
 			"country": "위나라",
@@ -2001,8 +2001,8 @@
 			"int": 86,
 			"dex": 92,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "(기절)"
+			"skill1": "<span class=\"badge\">적 1열</span> 화상",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 화염피해"
 		},
 		{
 			"country": "위나라",
@@ -2109,8 +2109,8 @@
 			"int": 36,
 			"dex": 86,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">임의적 4명</span> 방어감소",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 빙결"
 		},
 		{
 			"country": "촉나라",
@@ -2121,8 +2121,8 @@
 			"int": 60,
 			"dex": 83,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1열</span> 출혈",
+			"skill2": "<span class=\"badge\">적 1명</span> 높이뜸,감속"
 		},
 		{
 			"country": "촉나라",
@@ -2133,8 +2133,8 @@
 			"int": 89,
 			"dex": 90,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1명</span> 쓰러짐",
+			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 번개피해"
 		},
 		{
 			"country": "촉나라",
@@ -2181,8 +2181,8 @@
 			"int": 83,
 			"dex": 70,
 			"etc": "금화5",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">적 1명</span> (화상) 화상"
 		},
 		{
 			"country": "한나라",
@@ -2313,8 +2313,8 @@
 			"int": 69,
 			"dex": 83,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1,2열</span> 독",
+			"skill2": "<span class=\"badge\">적 1명</span> (독) 출혈"
 		},
 		{
 			"country": "황건적",
@@ -2325,8 +2325,8 @@
 			"int": 69,
 			"dex": 76,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1명</span> 출혈",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 물리피해"
 		},
 		{
 			"country": "황건적",
@@ -2349,8 +2349,8 @@
 			"int": 80,
 			"dex": 73,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적"
 		},
 		{
 			"country": "황건적",
@@ -2361,8 +2361,8 @@
 			"int": 89,
 			"dex": 84,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">임의적 4명</span> 공속감소",
+			"skill2": "<span class=\"badge\">임의적 4명</span> 방어감소"
 		},
 		{
 			"country": "황건적",
@@ -2373,8 +2373,8 @@
 			"int": 74,
 			"dex": 73,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 전체</span> 자연피해",
+			"skill2": "<span class=\"badge\">적 1명</span> (화상) 쓰러짐"
 		},
 		{
 			"country": "이민족",
@@ -2433,8 +2433,8 @@
 			"int": 56,
 			"dex": 99,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-"
+			"skill1": "<span class=\"badge\">적 1,2열</span> 독",
+			"skill2": "<span class=\"badge\">적 1명</span> (독) 출혈"
 		},
 		{
 			"country": "이민족",
@@ -2445,8 +2445,8 @@
 			"int": 86,
 			"dex": 86,
 			"etc": "-",
-			"skill1": "화상",
-			"skill2": "(화상) 화상"
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">적 1명</span> (화상) 화상"
 		},
 		{
 			"country": "오나라",
@@ -2459,6 +2459,114 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적1열</span> 높이뜸,피해증가,기절",
 			"skill2": "<span class=\"badge\">적 1명</span> (빙결) 쓰러짐"
+		},
+		{
+			"country": "황건적",
+			"job": "맹장",
+			"class": 1,
+			"name": "고승",
+			"str": 82,
+			"int": 69,
+			"dex": 76,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">적 1,열</span> 물리피해",
+			"skill2": "<span class=\"badge\">적 1명</span> (출혈) 기절"
+		},
+		{
+			"country": "황건적",
+			"job": "맹장",
+			"class": 1,
+			"name": "백요",
+			"str": 82,
+			"int": 69,
+			"dex": 76,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">아군 1열</span> 공격증가",
+			"skill2": "<span class=\"badge\">적 1명</span> (빙결) 쓰러짐"
+		},
+		{
+			"country": "황건적",
+			"job": "맹장",
+			"class": 1,
+			"name": "우독",
+			"str": 79,
+			"int": 66,
+			"dex": 80,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">적 1명</span> 흡혈,기절",
+			"skill2": "<span class=\"badge\">자신</span> 저항증가"
+		},
+		{
+			"country": "황건적",
+			"job": "맹장",
+			"class": 1,
+			"name": "파재",
+			"str": 79,
+			"int": 69,
+			"dex": 74,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">적 1,2열</span> 독",
+			"skill2": "<span class=\"badge\">자신</span> 공격증가"
+		},
+		{
+			"country": "황건적",
+			"job": "맹장",
+			"class": 1,
+			"name": "휴고",
+			"str": 77,
+			"int": 69,
+			"dex": 73,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">적 1열</span> 쓰러짐",
+			"skill2": "<span class=\"badge\">자신</span> 공속증가"
+		},
+		{
+			"country": "황건적",
+			"job": "명궁",
+			"class": 1,
+			"name": "등무",
+			"str": 74,
+			"int": 73,
+			"dex": 82,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">적 전체</span> 번개피해",
+			"skill2": "<span class=\"badge\">적 1명</span> 실명"
+		},
+		{
+			"country": "황건적",
+			"job": "명궁",
+			"class": 1,
+			"name": "손중",
+			"str": 80,
+			"int": 63,
+			"dex": 84,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">적 1명</span> 기절",
+			"skill2": "<span class=\"badge\">적 1명</span> (독) 징표"
+		},
+		{
+			"country": "위나라",
+			"job": "책사",
+			"class": 1,
+			"name": "종요",
+			"str": 41,
+			"int": 89,
+			"dex": 82,
+			"etc": 0,
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적"
+		},
+		{
+			"country": "위나라",
+			"job": "책사",
+			"class": 1,
+			"name": "화흠",
+			"str": 34,
+			"int": 99,
+			"dex": 64,
+			"etc": "태수",
+			"skill1": "<span class=\"badge\">적 전체</span> 화상",
+			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 치유,정화"
 		}
 	]
 }

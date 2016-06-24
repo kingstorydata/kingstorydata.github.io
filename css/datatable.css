@@ -32,3 +32,6 @@ table i.xi-info-o{font-size:14px;vertical-align: top}
 .btn_comment .xi-angle-up{display:none;}
 .btn_comment.on .xi-angle-down{display:none;}
 .btn_comment.on .xi-angle-up{display:inline-block;}
+table.dataTable span.highlight {
+  background-color: #FFFF88;
+}

@@ -46,7 +46,6 @@ $(document).ready(function() {
     
     table.on( 'draw', function () {
         var body = $( table.table().body() );
-        console.log(body);
         body.unhighlight();
         body.highlight( table.search() );  
     } );

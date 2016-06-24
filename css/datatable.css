@@ -24,3 +24,11 @@ table i.xi-info-o{font-size:14px;vertical-align: top}
 .skill-layer {z-index:1000;display:none;position:absolute;top:0;left:0;border:1px solid #c2c2c2;background:#fff;padding:10px}
 .skill-layer.on{display:block}
 .skill-layer ul li {line-height:22px;}
+.comment-box{display:none}
+.comment-box.on{display:block}
+.btn{background:none;border:0;cursor:pointer}
+.btn_comment{margin-top:20px;font-size:15px}
+.btn_comment .xi-angle-down{display:inline-block}
+.btn_comment .xi-angle-up{display:none;}
+.btn_comment.on .xi-angle-down{display:none;}
+.btn_comment.on .xi-angle-up{display:inline-block;}

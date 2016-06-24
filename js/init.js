@@ -53,7 +53,11 @@ $(document).ready(function() {
     } );
     $('i.xi-info-o').hover(function() {
       var offset = $(this).offset();
-      $('.skill-layer').toggle('on');
+      $('.skill-layer').toggleClass('on');
       $('.skill-layer').offset({top:offset.top,left:offset.left+30})
+    });
+    $('.btn_comment').click(function() {
+      $('.comment-box').toggleClass('on');
+      $(this).toggleClass('on');
     });
 } );

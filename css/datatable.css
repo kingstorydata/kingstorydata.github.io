@@ -21,9 +21,9 @@ table .text-left{text-align:left !important}
 table .badge{display: inline-block;padding: .25em .4em;font-size: 90%;font-weight: normal;line-height: 1;color: #fff;text-align: center;white-space: nowrap;vertical-align: baseline;border-radius: .25rem;background-color: #818a91;}
 table br + .badge {margin-top:1px;}
 table i.xi-info-o{font-size:14px;vertical-align: top}
-.skill-layer {z-index:1000;display:none;position:absolute;top:0;left:0;border:1px solid #c2c2c2;background:#fff;padding:10px}
-.skill-layer.on{display:block}
-.skill-layer ul li {line-height:22px;}
+.layer {z-index:1000;display:none;position:absolute;top:0;left:0;border:1px solid #c2c2c2;background:#fff;padding:10px}
+.layer.on{display:block}
+.layer ul li {line-height:22px;}
 .comment-box{display:none}
 .comment-box.on{display:block}
 .btn{background:none;border:0;cursor:pointer}

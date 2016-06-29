@@ -6,6 +6,9 @@ $(document).ready(function() {
           { "data": "job" },
           { "data": "class" },
           { "data": "name" },
+          { "data": null, render : function(data, type, row) {  // 무력,지력,통솔 합계
+            return data.str+data.dex+data.int;
+          } },
           { "data": null, render : function(data, type, row) {  // 공격력
             if(data.job == "맹장") return data.str;
             else if(data.job == "용장") return data.dex;
@@ -57,10 +60,11 @@ $(document).ready(function() {
     $('#dropdown2').on('change', function () { // 직업
       table.columns(1).search( this.value ).draw();
     } );
-    $('i.xi-info-o').hover(function() {
+    $('.xi-info-o').hover(function() {
       var offset = $(this).offset();
-      $('.skill-layer').toggleClass('on');
-      $('.skill-layer').offset({top:offset.top,left:offset.left+30})
+      var layer_name = $(this).attr('data-layer');
+      $('.'+layer_name).toggleClass('on');
+      $('.'+layer_name).offset({top:offset.top,left:offset.left+30});
     });
     $('.btn_comment').click(function() {
       $('.comment-box').toggleClass('on');

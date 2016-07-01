@@ -864,9 +864,9 @@
 			"dex": 268,
 			"etc": "호패(7,12)",
 			"skill1": "<span class=\"badge\">적 1명</span> 쓰러짐",
-			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 번개피해",
-			"skill3": "-",
-			"skill4": "-"
+			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 번개피해",
+			"skill3": "<span class=\"badge\">적 2회</span> (공격7회) 번개피해",
+			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
 		},
 		{
 			"country": "이민족",
@@ -1102,9 +1102,9 @@
 			"dex": 665,
 			"etc": "천거서(왕)",
 			"skill1": "<span class=\"badge\">적 1명</span> 기력감소,쓰러짐<br><span class=\"badge\">자신</span> 물리면역",
-			"skill2": "<span class=\"badge\">적 4명</span> 침묵",
-			"skill3": "-",
-			"skill4": "-"
+			"skill2": "<span class=\"badge\">적 후방 4명</span> 침묵",
+			"skill3": "<span class=\"badge\">패시브</span> 치명증가",
+			"skill4": "<span class=\"badge\">자신</span> (피해5회) 회피증가"
 		},
 		{
 			"country": "오나라",

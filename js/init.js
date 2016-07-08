@@ -1,3 +1,16 @@
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var this_grade = $("#dropdown3 option:selected").val();
+        var grade = parseFloat( data[2] ) || 0; // use data for the age column
+        console.log(this_grade+','+grade);
+        if ( grade <= this_grade )  {
+          console.log('ok');
+          return true;
+        }
+        return false;
+    }
+);
+
 $(document).ready(function() {
     var table = $('#kindom-data').DataTable( {
         "ajax": "data/test.json",
@@ -59,6 +72,10 @@ $(document).ready(function() {
     } );
     $('#dropdown2').on('change', function () { // 직업
       table.columns(1).search( this.value ).draw();
+    } );
+    $('#dropdown3').on('change', function () { // 등급
+      // table.columns(2).search( this.value ).draw();
+      table.draw();
     } );
     $('.xi-info-o').hover(function() {
       var offset = $(this).offset();

@@ -19,9 +19,10 @@ $(document).ready(function() {
           { "data": "job" },
           { "data": "class" },
           { "data": "name" },
+          /*
           { "data": null, render : function(data, type, row) {  // 무력,지력,통솔 합계
             return data.str+data.dex+data.int;
-          } },
+          } },*/
           { "data": null, render : function(data, type, row) {  // 공격력
             if(data.job == "맹장") return data.str;
             else if(data.job == "용장") return data.dex;
@@ -56,6 +57,8 @@ $(document).ready(function() {
           } },
           { "data": "skill1","sClass":"text-left" },
           { "data": "skill2","sClass":"text-left" },
+          { "data": "skill3","sClass":"text-left" },
+          { "data": "skill4","sClass":"text-left" },
           { "data": "etc","sClass":"text-left" }
         ]
     } );

@@ -3,7 +3,7 @@
 		{
 			"country": "한나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-S",
 			"name": "여포",
 			"str": 850,
 			"int": 510,
@@ -17,7 +17,7 @@
 		{
 			"country": "촉나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-A",
 			"name": "장비",
 			"str": 693,
 			"int": 588,
@@ -31,7 +31,7 @@
 		{
 			"country": "한나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "문추",
 			"str": 558,
 			"int": 306,
@@ -45,7 +45,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "장합",
 			"str": 570,
 			"int": 378,
@@ -59,7 +59,7 @@
 		{
 			"country": "오나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "능통",
 			"str": 516,
 			"int": 487,
@@ -73,7 +73,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "서황",
 			"str": 522,
 			"int": 348,
@@ -87,7 +87,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "악진",
 			"str": 481,
 			"int": 348,
@@ -101,7 +101,7 @@
 		{
 			"country": "촉나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "관평",
 			"str": 481,
 			"int": 348,
@@ -115,7 +115,7 @@
 		{
 			"country": "오나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "반장",
 			"str": 481,
 			"int": 348,
@@ -129,7 +129,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "허저",
 			"str": 546,
 			"int": 312,
@@ -143,7 +143,7 @@
 		{
 			"country": "한나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "고람",
 			"str": 499,
 			"int": 348,
@@ -157,7 +157,7 @@
 		{
 			"country": "촉나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "마대",
 			"str": 493,
 			"int": 360,
@@ -171,7 +171,7 @@
 		{
 			"country": "한나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "여령기",
 			"str": 464,
 			"int": 278,
@@ -507,7 +507,7 @@
 		{
 			"country": "촉나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-S",
 			"name": "관우",
 			"str": 846,
 			"int": 604,
@@ -521,7 +521,7 @@
 		{
 			"country": "촉나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "위연",
 			"str": 564,
 			"int": 360,
@@ -535,7 +535,7 @@
 		{
 			"country": "촉나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "황월영",
 			"str": 516,
 			"int": 510,
@@ -549,7 +549,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "방덕",
 			"str": 546,
 			"int": 348,
@@ -563,7 +563,7 @@
 		{
 			"country": "위나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "변황후",
 			"str": 464,
 			"int": 418,
@@ -577,7 +577,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-A",
 			"name": "전위",
 			"str": 644,
 			"int": 350,
@@ -591,7 +591,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-A",
 			"name": "하후돈",
 			"str": 665,
 			"int": 490,
@@ -605,7 +605,7 @@
 		{
 			"country": "오나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-S",
 			"name": "감녕",
 			"str": 825,
 			"int": 510,
@@ -619,7 +619,7 @@
 		{
 			"country": "오나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-A",
 			"name": "손견",
 			"str": 672,
 			"int": 490,
@@ -633,7 +633,7 @@
 		{
 			"country": "황건적",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-A",
 			"name": "관해",
 			"str": 623,
 			"int": 364,
@@ -647,21 +647,21 @@
 		{
 			"country": "이민족",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-C",
 			"name": "축융부인",
-			"str": 0,
-			"int": 0,
-			"dex": 0,
+			"str": 499,
+			"int": 319,
+			"dex": 464,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-",
-			"skill3": "-",
-			"skill4": "-"
+			"skill1": "<span class=\"badge\">적 1,2열</span> 쓰러짐,피해증가",
+			"skill2": "<span class=\"badge\">적 1명</span> (출혈) 빛 피해<br><span class=\"badge\">아군 1열</span> 공격증가",
+			"skill3": "<span class=\"badge\">자신</span> (적이 독에 걸렸을 때)공격증가",
+			"skill4": "<span class=\"badge\">패시브</span> 체력증가"
 		},
 		{
 			"country": "오나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-A",
 			"name": "손책",
 			"str": 651,
 			"int": 525,
@@ -675,7 +675,7 @@
 		{
 			"country": "한나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-A",
 			"name": "안량",
 			"str": 623,
 			"int": 448,
@@ -689,7 +689,7 @@
 		{
 			"country": "위나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-B",
 			"name": "문앙",
 			"str": 610,
 			"int": 426,
@@ -703,7 +703,7 @@
 		{
 			"country": "위나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "만총",
 			"str": 499,
 			"int": 546,
@@ -717,7 +717,7 @@
 		{
 			"country": "촉나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "왕평",
 			"str": 493,
 			"int": 435,
@@ -731,7 +731,7 @@
 		{
 			"country": "오나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "황개",
 			"str": 493,
 			"int": 406,
@@ -745,7 +745,7 @@
 		{
 			"country": "위나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "등애",
 			"str": 464,
 			"int": 458,
@@ -759,7 +759,7 @@
 		{
 			"country": "한나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "기령",
 			"str": 458,
 			"int": 377,
@@ -773,7 +773,7 @@
 		{
 			"country": "위나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "문빙",
 			"str": 458,
 			"int": 447,
@@ -1053,7 +1053,7 @@
 		{
 			"country": "위나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-S",
 			"name": "장료",
 			"str": 833,
 			"int": 595,
@@ -1067,7 +1067,7 @@
 		{
 			"country": "촉나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-A",
 			"name": "마초",
 			"str": 658,
 			"int": 434,
@@ -1081,21 +1081,21 @@
 		{
 			"country": "촉나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-S",
 			"name": "조운",
-			"str": 0,
-			"int": 0,
-			"dex": 0,
+			"str": 799,
+			"int": 595,
+			"dex": 842,
 			"etc": "-",
-			"skill1": "-",
-			"skill2": "-",
-			"skill3": "-",
-			"skill4": "-"
+			"skill1": "<span class=\"badge\">임의적 8명</span> 쓰러짐,무효화,침묵",
+			"skill2": "<span class=\"badge\">자신</span> (상태이상) 정화,공격력증가",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 실명",
+			"skill4": "<span class=\"badge\">자신</span> (피해5회) 회피율 상승"
 		},
 		{
 			"country": "오나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-A",
 			"name": "여몽",
 			"str": 616,
 			"int": 595,
@@ -1109,7 +1109,7 @@
 		{
 			"country": "오나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-B",
 			"name": "육항",
 			"str": 540,
 			"int": 450,
@@ -1123,7 +1123,7 @@
 		{
 			"country": "한나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "초선",
 			"str": 441,
 			"int": 522,
@@ -1151,7 +1151,7 @@
 		{
 			"country": "위나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-A",
 			"name": "하후연",
 			"str": 630,
 			"int": 504,
@@ -1165,7 +1165,7 @@
 		{
 			"country": "촉나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-A",
 			"name": "황충",
 			"str": 630,
 			"int": 441,
@@ -1179,7 +1179,7 @@
 		{
 			"country": "촉나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-B",
 			"name": "강유",
 			"str": 540,
 			"int": 492,
@@ -1193,7 +1193,7 @@
 		{
 			"country": "오나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-C",
 			"name": "주태",
 			"str": 516,
 			"int": 278,
@@ -1207,7 +1207,7 @@
 		{
 			"country": "위나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-C",
 			"name": "조인",
 			"str": 516,
 			"int": 360,
@@ -1221,7 +1221,7 @@
 		{
 			"country": "촉나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-C",
 			"name": "엄안",
 			"str": 493,
 			"int": 394,
@@ -1235,7 +1235,7 @@
 		{
 			"country": "위나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-C",
 			"name": "양호",
 			"str": 476,
 			"int": 429,
@@ -1249,7 +1249,7 @@
 		{
 			"country": "위나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-C",
 			"name": "학소",
 			"str": 476,
 			"int": 423,
@@ -1389,7 +1389,7 @@
 		{
 			"country": "촉나라",
 			"job": "용장",
-			"class": 4,
+			"class": "4-B",
 			"name": "맹달",
 			"str": 546,
 			"int": 408,
@@ -1403,7 +1403,7 @@
 		{
 			"country": "오나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-A",
 			"name": "육손",
 			"str": 0,
 			"int": 0,
@@ -1417,7 +1417,7 @@
 		{
 			"country": "오나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-A",
 			"name": "태사자",
 			"str": 637,
 			"int": 490,
@@ -1431,7 +1431,7 @@
 		{
 			"country": "한나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-B",
 			"name": "고순",
 			"str": 534,
 			"int": 420,
@@ -1445,7 +1445,7 @@
 		{
 			"country": "한나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-C",
 			"name": "화웅",
 			"str": 493,
 			"int": 418,
@@ -1473,7 +1473,7 @@
 		{
 			"country": "위나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-A",
 			"name": "사마의",
 			"str": 413,
 			"int": 693,
@@ -1487,7 +1487,7 @@
 		{
 			"country": "위나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-A",
 			"name": "곽가",
 			"str": 385,
 			"int": 672,
@@ -1501,7 +1501,7 @@
 		{
 			"country": "오나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-A",
 			"name": "주유",
 			"str": 490,
 			"int": 665,
@@ -1515,7 +1515,7 @@
 		{
 			"country": "촉나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-B",
 			"name": "방통",
 			"str": 312,
 			"int": 558,
@@ -1529,7 +1529,7 @@
 		{
 			"country": "한나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-B",
 			"name": "전풍",
 			"str": 300,
 			"int": 534,
@@ -1543,7 +1543,7 @@
 		{
 			"country": "촉나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "서서",
 			"str": 267,
 			"int": 510,
@@ -1557,7 +1557,7 @@
 		{
 			"country": "위나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "순유",
 			"str": 284,
 			"int": 505,
@@ -1571,7 +1571,7 @@
 		{
 			"country": "오나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "제갈근",
 			"str": 273,
 			"int": 505,
@@ -1585,7 +1585,7 @@
 		{
 			"country": "오나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "소교",
 			"str": 284,
 			"int": 499,
@@ -1599,7 +1599,7 @@
 		{
 			"country": "한나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "이유",
 			"str": 278,
 			"int": 493,
@@ -1613,7 +1613,7 @@
 		{
 			"country": "한나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "추부인",
 			"str": 278,
 			"int": 481,
@@ -2145,7 +2145,7 @@
 		{
 			"country": "위나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "정욱",
 			"str": 278,
 			"int": 499,
@@ -2159,7 +2159,7 @@
 		{
 			"country": "촉나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-B",
 			"name": "법정",
 			"str": 300,
 			"int": 540,
@@ -2173,7 +2173,7 @@
 		{
 			"country": "촉나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-A",
 			"name": "제갈량",
 			"str": 406,
 			"int": 700,
@@ -2187,7 +2187,7 @@
 		{
 			"country": "오나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-A",
 			"name": "노숙",
 			"str": 357,
 			"int": 644,
@@ -2201,7 +2201,7 @@
 		{
 			"country": "오나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-B",
 			"name": "대교",
 			"str": 300,
 			"int": 534,
@@ -2215,7 +2215,7 @@
 		{
 			"country": "한나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-A",
 			"name": "가후",
 			"str": 406,
 			"int": 665,
@@ -2229,7 +2229,7 @@
 		{
 			"country": "한나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-B",
 			"name": "진궁",
 			"str": 336,
 			"int": 540,
@@ -2257,7 +2257,7 @@
 		{
 			"country": "오나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-A",
 			"name": "손권",
 			"str": 560,
 			"int": 623,
@@ -2383,7 +2383,7 @@
 		{
 			"country": "위나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-B",
 			"name": "사마사",
 			"str": 384,
 			"int": 528,
@@ -2397,7 +2397,7 @@
 		{
 			"country": "위나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-C",
 			"name": "조비",
 			"str": 406,
 			"int": 481,
@@ -2411,7 +2411,7 @@
 		{
 			"country": "위나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-A",
 			"name": "조조",
 			"str": 525,
 			"int": 665,
@@ -2509,7 +2509,7 @@
 		{
 			"country": "촉나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-A",
 			"name": "유비",
 			"str": 602,
 			"int": 630,
@@ -2551,7 +2551,7 @@
 		{
 			"country": "한나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-C",
 			"name": "공손찬",
 			"str": 406,
 			"int": 481,
@@ -2565,7 +2565,7 @@
 		{
 			"country": "한나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-B",
 			"name": "동탁",
 			"str": 450,
 			"int": 546,
@@ -2579,7 +2579,7 @@
 		{
 			"country": "한나라",
 			"job": "군주",
-			"class": 4,
+			"class": "4-C",
 			"name": "원소",
 			"str": 406,
 			"int": 476,
@@ -2719,7 +2719,7 @@
 		{
 			"country": "황건적",
 			"job": "군주",
-			"class": 4,
+			"class": "4-B",
 			"name": "장각",
 			"str": 348,
 			"int": 534,
@@ -2775,7 +2775,7 @@
 		{
 			"country": "이민족",
 			"job": "군주",
-			"class": 4,
+			"class": "4-S",
 			"name": "맹획",
 			"str": 0,
 			"int": 0,
@@ -2999,7 +2999,7 @@
 		{
 			"country": "오나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "주연",
 			"str": 564,
 			"int": 378,
@@ -3013,7 +3013,7 @@
 		{
 			"country": "위나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-B",
 			"name": "순욱",
 			"str": 312,
 			"int": 558,
@@ -3027,7 +3027,7 @@
 		{
 			"country": "황건적",
 			"job": "용장",
-			"class": 4,
+			"class": "4-C",
 			"name": "하만",
 			"str": 487,
 			"int": 325,
@@ -3041,7 +3041,7 @@
 		{
 			"country": "황건적",
 			"job": "책사",
-			"class": 4,
+			"class": "4-B",
 			"name": "서화",
 			"str": 288,
 			"int": 522,
@@ -3055,7 +3055,7 @@
 		{
 			"country": "황건적",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-B",
 			"name": "하의",
 			"str": 504,
 			"int": 390,
@@ -3069,7 +3069,7 @@
 		{
 			"country": "황건적",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "황소",
 			"str": 534,
 			"int": 312,
@@ -3083,7 +3083,7 @@
 		{
 			"country": "오나라",
 			"job": "명궁",
-			"class": 4,
+			"class": "4-A",
 			"name": "육손",
 			"str": 623,
 			"int": 602,
@@ -3097,7 +3097,7 @@
 		{
 			"country": "한나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "노식",
 			"str": 278,
 			"int": 516,
@@ -3111,7 +3111,7 @@
 		{
 			"country": "오나라",
 			"job": "맹장",
-			"class": 4,
+			"class": "4-B",
 			"name": "전종",
 			"str": 552,
 			"int": 390,
@@ -3125,7 +3125,7 @@
 		{
 			"country": "촉나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "장성채",
 			"str": 290,
 			"int": 510,
@@ -3139,7 +3139,7 @@
 		{
 			"country": "위나라",
 			"job": "책사",
-			"class": 4,
+			"class": "4-C",
 			"name": "장춘화",
 			"str": 284,
 			"int": 516,
@@ -3149,6 +3149,160 @@
 			"skill2": "<span class=\"badge\">아군 1명</span> 보호막",
 			"skill3": "<span class=\"badge\">패시브</span> 치명도",
 			"skill4": "<span class=\"badge\">적 1명</span> (기본공격9회) 기력감소"
+		},
+		{
+			"country": "이민족",
+			"job": "명궁",
+			"class": "4-A",
+			"name": "답돈",
+			"str": 623,
+			"int": 490,
+			"dex": 630,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">임의 적 4명</span> 중복,침묵",
+			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 쓰러짐",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 중독",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
+		},
+		{
+			"country": "이민족",
+			"job": "맹장",
+			"class": "4-A",
+			"name": "가비능",
+			"str": 662,
+			"int": 588,
+			"dex": 616,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">적 전체</span> 출혈,기절",
+			"skill2": "<span class=\"badge\">아군 1열</span> 공격증가",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 피해증가",
+			"skill4": "<span class=\"badge\">패시브</span> 체력증가"
+		},
+		{
+			"country": "다국적",
+			"job": "책사",
+			"class": "4-A",
+			"name": "화타",
+			"str": 336,
+			"int": 552,
+			"dex": 408,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">아군 전체</span> 지속치유,정화",
+			"skill2": "<span class=\"badge\">아군 1명</span> 보호막",
+			"skill3": "<span class=\"badge\">아군 전체</span> (웨이브시작) 지속치유",
+			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+		},
+		{
+			"country": "촉나라",
+			"job": "명궁",
+			"class": "4-B",
+			"name": "곽준",
+			"str": 516,
+			"int": 426,
+			"dex": 558,
+			"etc": "금화10",
+			"skill1": "<span class=\"badge\">적 최대3명</span> 기절,밀치기",
+			"skill2": "<span class=\"badge\">적 1명</span> (빙결) 냉기피해",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 공포",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
+		},
+		{
+			"country": "촉나라",
+			"job": "용장",
+			"class": "4-C",
+			"name": "오반",
+			"str": 493,
+			"int": 435,
+			"dex": 502,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">임의적 6명</span> 높이뜸,기력감소,기절",
+			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 흡혈",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
+		},
+		{
+			"country": "오나라",
+			"job": "명궁",
+			"class": "4-B",
+			"name": "주환",
+			"str": 534,
+			"int": 309,
+			"dex": 555,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">적 1명</span> 기절,빙결",
+			"skill2": "<span class=\"badge\">적 1명</span> (침묵) 쓰러짐",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 기절",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
+		},
+		{
+			"country": "오나라",
+			"job": "용장",
+			"class": "4-C",
+			"name": "손환",
+			"str": 487,
+			"int": 412,
+			"dex": 503,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">적 1열</span> 높이뜸,빙결",
+			"skill2": "<span class=\"badge\">적 1명</span> (실명) 빙결,쓰러짐",
+			"skill3": "<span class=\"badge\">자신</span> (아군 출혈) 치명타 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
+		},
+		{
+			"country": "위나라",
+			"job": "용장",
+			"class": "4-C",
+			"name": "문흠",
+			"str": 499,
+			"int": 435,
+			"dex": 505,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">적후방 2명</span> 쓰러짐",
+			"skill2": "<span class=\"badge\">적 1명</span> (공포) 피해증가",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격9회) 방어감소",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
+		},
+		{
+			"country": "위나라",
+			"job": "명궁",
+			"class": "4-B",
+			"name": "사마준",
+			"str": 522,
+			"int": 480,
+			"dex": 557,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">적 1,2열</span> 화상,쓰러짐",
+			"skill2": "<span class=\"badge\">적 1명</span> (기절) 방어감소",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 치유효과감소",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
+		},
+		{
+			"country": "한나라",
+			"job": "용장",
+			"class": "4-B",
+			"name": "하태후",
+			"str": 546,
+			"int": 426,
+			"dex": 552,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">임의적 6명</span> 높이뜸,중독,기절",
+			"skill2": "<span class=\"badge\">적 1명</span> (실명) 쓰러짐",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 치유효과감소",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
+		},
+		{
+			"country": "한나라",
+			"job": "군주",
+			"class": "4-B",
+			"name": "유협",
+			"str": 444,
+			"int": 534,
+			"dex": 360,
+			"etc": "-",
+			"skill1": "<span class=\"badge\">아군 전체</span> 공격증가",
+			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
+			"skill3": "<span class=\"badge\">아군 전체</span> (웨이브시작) 공속증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		}
 	]
 }

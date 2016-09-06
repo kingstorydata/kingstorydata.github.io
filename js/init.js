@@ -3,7 +3,15 @@ $.fn.dataTable.ext.search.push(
         var this_grade = $("#dropdown3 option:selected").val();
         var grade = parseFloat( data[2] ) || 0; // use data for the age column
         console.log(this_grade+','+grade);
-        if ( grade <= this_grade )  {
+        
+        if ( this_grade >= 10 )  {
+          return true;
+        }
+        else if ( this_grade >= 4 && grade >= this_grade )  {
+          console.log('ok');
+          return true;
+        }
+        else if ( this_grade <= 3 && grade <= this_grade )  {
           console.log('ok');
           return true;
         }

@@ -24,7 +24,7 @@
 			"dex": 665,
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 2열</span> 높이뜸,기절,공격감소",
-			"skill2": "<span class=\"badge\">아군 1열</span> 공격증가",
+			"skill2": "<span class=\"badge\">아군 1열</span> 공격 증가",
 			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
 			"skill4": "<span class=\"badge\">자신</span> (적군 사망) 기력증가"
 		},
@@ -38,9 +38,9 @@
 			"dex": 540,
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1명</span> 쓰러짐<br><span class=\"badge\">자신</span> 공속증가",
-			"skill2": "<span class=\"badge\">아군 1열</span> 공격증가,방탄",
-			"skill3": "-",
-			"skill4": "-"
+			"skill2": "<span class=\"badge\">아군 1열</span> 공격 증가,방탄",
+			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
+			"skill4": "<span class=\"badge\">자신</span> (피해10회) 방어 증가"
 		},
 		{
 			"country": "위나라",
@@ -67,8 +67,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1,2열</span> 쓰러짐,공격감소",
 			"skill2": "<span class=\"badge\">적 1명</span> (출혈) 기절",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 체력증가",
+			"skill4": "<span class=\"badge\">자신</span> (출혈) 치명타100%"
 		},
 		{
 			"country": "위나라",
@@ -109,8 +109,8 @@
 			"etc": "태수",
 			"skill1": "<span class=\"badge\">적 1열</span> 높이뜸,기절,방어감소",
 			"skill2": "<span class=\"badge\">적 최대 2명</span> 침묵",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
+			"skill4": "<span class=\"badge\">적 1명</span> (기본공격9회) 쓰러짐"
 		},
 		{
 			"country": "오나라",
@@ -123,8 +123,8 @@
 			"etc": "태수",
 			"skill1": "<span class=\"badge\">적 1열</span> 출혈,피해증가,쓰러짐",
 			"skill2": "<span class=\"badge\">자신</span> 정화,강인함",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
+			"skill4": "<span class=\"badge\">자신</span> (치명타) 치료"
 		},
 		{
 			"country": "위나라",
@@ -151,8 +151,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1열</span> 기절,피해증가",
 			"skill2": "<span class=\"badge\">자신</span> 저항증가",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 체력 증가",
+			"skill4": "<span class=\"badge\">적 1열</span> (피해7회) 흡혈"
 		},
 		{
 			"country": "촉나라",
@@ -165,8 +165,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1열</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 쓰러짐",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
+			"skill4": "<span class=\"badge\">패시브</span> 체력 증가"
 		},
 		{
 			"country": "한나라",
@@ -179,8 +179,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">자신</span> 치유",
 			"skill2": "<span class=\"badge\">적 1명</span> 공포,어둠저항감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
+			"skill4": "<span class=\"badge\">패시브</span> 체력 증가"
 		},
 		{
 			"country": "이민족",
@@ -219,7 +219,7 @@
 			"int": 220,
 			"dex": 258,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">아군 1열</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 1열</span> 공격 증가",
 			"skill2": "<span class=\"badge\">자신</span> 저항증가",
 			"skill3": "-",
 			"skill4": "-"
@@ -261,10 +261,10 @@
 			"int": 241,
 			"dex": 248,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">적 2열</span> 높이뜸,쓰러짐",
-			"skill2": "<span class=\"badge\">자신</span> 공격증가",
-			"skill3": "-",
-			"skill4": "-"
+			"skill1": "<span class=\"badge\">적 1,2열</span> 높이뜸,쓰러짐",
+			"skill2": "<span class=\"badge\">자신</span> 공격 증가",
+			"skill3": "<span class=\"badge\">패시브</span> 체력증가",
+			"skill4": "<span class=\"badge\">패시브</span> 피해감소"
 		},
 		{
 			"country": "위나라",
@@ -429,7 +429,7 @@
 			"int": 145,
 			"dex": 128,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">적 1열</span> 방어감소<br><span class=\"badge\">자신</span> 공격증가",
+			"skill1": "<span class=\"badge\">적 1열</span> 방어감소<br><span class=\"badge\">자신</span> 공격 증가",
 			"skill2": "<span class=\"badge\">아군 1,2열</span> 피해감소",
 			"skill3": "-",
 			"skill4": "-"
@@ -499,7 +499,7 @@
 			"int": 47,
 			"dex": 124,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">적 1열</span> 방어감소<br><span class=\"badge\">자신</span> 공격증가",
+			"skill1": "<span class=\"badge\">적 1열</span> 방어감소<br><span class=\"badge\">자신</span> 공격 증가",
 			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 쓰러짐",
 			"skill3": "-",
 			"skill4": "-"
@@ -543,7 +543,7 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1열</span> 혼란",
 			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 보호막",
-			"skill3": "<span class=\"badge\">패시브</span> 체력",
+			"skill3": "<span class=\"badge\">패시브</span> 체력 증가",
 			"skill4": "<span class=\"badge\">적 1열</span> (피해7회) 치유효과 감소"
 		},
 		{
@@ -642,7 +642,7 @@
 			"skill1": "<span class=\"badge\">적 1열</span> 출혈, 기절",
 			"skill2": "<span class=\"badge\">적 후방 1명</span> 기절",
 			"skill3": "<span class=\"badge\">패시브</span> 체력증가",
-			"skill4": "<span class=\"badge\">자신</span> (화상) 치명증가"
+			"skill4": "<span class=\"badge\">자신</span> (화상) 치명도 증가"
 		},
 		{
 			"country": "이민족",
@@ -654,8 +654,8 @@
 			"dex": 464,
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1,2열</span> 쓰러짐,피해증가",
-			"skill2": "<span class=\"badge\">적 1명</span> (출혈) 빛 피해<br><span class=\"badge\">아군 1열</span> 공격증가",
-			"skill3": "<span class=\"badge\">자신</span> (적이 독에 걸렸을 때)공격증가",
+			"skill2": "<span class=\"badge\">적 1명</span> (출혈) 빛 피해<br><span class=\"badge\">아군 1열</span> 공격 증가",
+			"skill3": "<span class=\"badge\">자신</span> (적이 독에 걸렸을 때)공격 증가",
 			"skill4": "<span class=\"badge\">패시브</span> 체력증가"
 		},
 		{
@@ -668,7 +668,7 @@
 			"dex": 679,
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1명</span> 무효화,쓰러짐",
-			"skill2": "<span class=\"badge\">자신</span> 공격증가,치명타증가",
+			"skill2": "<span class=\"badge\">자신</span> 공격 증가,치명타증가",
 			"skill3": "<span class=\"badge\">자신</span> (치명타) 치유",
 			"skill4": "<span class=\"badge\">패시브</span> 피해감소"
 		},
@@ -683,8 +683,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1열</span> 다리묶기,치유감소,저항감소",
 			"skill2": "<span class=\"badge\">적 1명</span> 방어감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (사망) 기력 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -698,7 +698,7 @@
 			"skill1": "<span class=\"badge\">적 1명</span> 쓰러짐,빙결<br><span class=\"badge\">자신</span> 물리면역",
 			"skill2": "<span class=\"badge\">적 1명</span> (기절) 빙결",
 			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
-			"skill4": "<span class=\"badge\">자신</span> (웨이브시작) 치명타 증가"
+			"skill4": "<span class=\"badge\">자신</span> (웨이브시작) 치명타100%"
 		},
 		{
 			"country": "위나라",
@@ -725,8 +725,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1열</span> 높이뜸,출혈",
 			"skill2": "<span class=\"badge\">적 1명</span> (기절) 독",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (체력절반이하) 연타100%",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "오나라",
@@ -740,7 +740,7 @@
 			"skill1": "<span class=\"badge\">적 1열</span> 기절",
 			"skill2": "<span class=\"badge\">적 1명</span> (화상) 쓰러짐",
 			"skill3": "<span class=\"badge\">적 전체</span> (자신 사망) 쓰러짐",
-			"skill4": "<span class=\"badge\">패시브</span> 공격"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -767,8 +767,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 출혈",
 			"skill2": "<span class=\"badge\">적 1열</span> (실명)",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 최대 2회</span> (기본공격9회) 자연피해",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -822,9 +822,9 @@
 			"dex": 275,
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 최대 3회</span> 기절",
-			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 공속감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill2": "<span class=\"badge\">적 1명</span> 높이뜸, 감속",
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격9회) 방어감소",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -837,8 +837,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 최대 4명</span> 방어감소",
 			"skill2": "<span class=\"badge\">적 1명</span> (기절) 침묵",
-			"skill3": "<span class=\"badge\">자신,아군1열</span> 치명증가",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill3": "<span class=\"badge\">자신,아군1열</span> 치명도 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -852,7 +852,7 @@
 			"skill1": "<span class=\"badge\">적 2,3열</span> 실명",
 			"skill2": "<span class=\"badge\">적 1명</span> (기절) 침묵",
 			"skill3": "-",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "오나라",
@@ -866,7 +866,7 @@
 			"skill1": "<span class=\"badge\">적 1명</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 번개피해",
 			"skill3": "<span class=\"badge\">적 2회</span> (공격7회) 번개피해",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "이민족",
@@ -1075,8 +1075,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">임의적 7발</span> 물리피해",
 			"skill2": "<span class=\"badge\">적 1명</span> 실명",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 방어감소",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "촉나라",
@@ -1103,7 +1103,7 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1명</span> 기력감소,쓰러짐<br><span class=\"badge\">자신</span> 물리면역",
 			"skill2": "<span class=\"badge\">적 후방 4명</span> 침묵",
-			"skill3": "<span class=\"badge\">패시브</span> 치명증가",
+			"skill3": "<span class=\"badge\">패시브</span> 치명도 증가",
 			"skill4": "<span class=\"badge\">자신</span> (피해5회) 회피증가"
 		},
 		{
@@ -1118,7 +1118,7 @@
 			"skill1": "<span class=\"badge\">적 후방 3명</span> 화상,기절",
 			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
 			"skill3": "<span class=\"badge\">자신</span> (화상) 흡혈율 증가",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "한나라",
@@ -1131,8 +1131,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 최대 3명</span> 혼란",
 			"skill2": "<span class=\"badge\">아군 1명</span> 치유,정화",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (아군 사망) 치유,치유효과증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -1159,8 +1159,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1명</span> 기력감소",
 			"skill2": "<span class=\"badge\">임의적 4명</span> 피해증가",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (아군사망) 흡혈",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "촉나라",
@@ -1173,8 +1173,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 최대 3명</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (기절) 기력감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> 물리피해<br><span class=\"badge\">자신</span> 공속 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "촉나라",
@@ -1187,8 +1187,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 치유효과감소",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "오나라",
@@ -1201,8 +1201,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">임의적 4명</span> 화상",
 			"skill2": "<span class=\"badge\">임의적 3회</span> (기절) 화상",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (화상) 치명타 100%",
+			"skill4": "<span class=\"badge\">패시브</span> 연타 증가"
 		},
 		{
 			"country": "위나라",
@@ -1215,8 +1215,8 @@
 			"etc": "태수",
 			"skill1": "<span class=\"badge\">임의적 10발</span> 빙결",
 			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 4명</span> (기본공격8회) 냉기피해",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "촉나라",
@@ -1229,8 +1229,8 @@
 			"etc": "태수",
 			"skill1": "<span class=\"badge\">적 1명</span> 치유감소,징표",
 			"skill2": "<span class=\"badge\">아군 1명</span> (기절) 치유",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> (치명타) 독",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "위나라",
@@ -1243,8 +1243,8 @@
 			"etc": "태수,조공20",
 			"skill1": "<span class=\"badge\">적 전체</span> 번개피해",
 			"skill2": "<span class=\"badge\">적 1명</span> (독)징표",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> (피해4회) 기절",
+			"skill4": "<span class=\"badge\">패시브</span> 연타 증가"
 		},
 		{
 			"country": "위나라",
@@ -1257,8 +1257,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">임의적 5명</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">자신</span> 피해감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (자신 사망) 무적",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "한나라",
@@ -1398,7 +1398,7 @@
 			"skill1": "<span class=\"badge\">적 후방 3명</span> 빙결,기절",
 			"skill2": "<span class=\"badge\">적 대상 열</span> (실명) 냉기피해",
 			"skill3": "<span class=\"badge\">적 1명</span> (공격 8회) 냉기피해<br><span class=\"badge\">자신</span> 공속증가",
-			"skill4": "<span class=\"badge\">패시브</span> 연타증가"
+			"skill4": "<span class=\"badge\">패시브</span> 연타 증가"
 		},
 		{
 			"country": "오나라",
@@ -1425,8 +1425,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">임의적 10발</span> 기력감소<br><span class=\"badge\">아군 전체</span> 치유",
 			"skill2": "<span class=\"badge\">임의적 3명</span> 흡혈",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (막타로 적 죽일때) 공속증가",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "한나라",
@@ -1440,7 +1440,7 @@
 			"skill1": "<span class=\"badge\">임의적 4명</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (출혈) 화염피해",
 			"skill3": "<span class=\"badge\">적 1열</span> (공격8회) 화염피해",
-			"skill4": "<span class=\"badge\">패시브</span> 연타증가"
+			"skill4": "<span class=\"badge\">패시브</span> 연타 증가"
 		},
 		{
 			"country": "한나라",
@@ -1453,8 +1453,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 최대 3명</span> (아군사망) 실명",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "위나라",
@@ -1481,8 +1481,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 최대 4명</span> 공속감소",
 			"skill2": "<span class=\"badge\">적 전체</span> 공속감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 4명</span> 공속감소",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "위나라",
@@ -1495,8 +1495,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 흡혈",
 			"skill2": "<span class=\"badge\">적 1열</span> 저항감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (아군사망) 원소저항증가",
+			"skill4": "<span class=\"badge\">적 1명</span> (기본공격9회) 기력감소"
 		},
 		{
 			"country": "오나라",
@@ -1509,8 +1509,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 화상",
 			"skill2": "<span class=\"badge\">적 최대 4명</span> 화상",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 치명도 증가",
+			"skill4": "<span class=\"badge\">자신</span> (적 화상) 기력증가"
 		},
 		{
 			"country": "촉나라",
@@ -1523,8 +1523,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 공속감소,다리묶기",
 			"skill2": "<span class=\"badge\">아군 1열</span> 보호막",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 다리묶기",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "한나라",
@@ -1537,8 +1537,8 @@
 			"etc": "태수,조공30",
 			"skill1": "<span class=\"badge\">적 최대 3명</span> 흡혈",
 			"skill2": "<span class=\"badge\">아군 1열</span> 보호막",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 치명도 증가",
+			"skill4": "<span class=\"badge\">자신</span> (웨이브시작) 원소피해감소"
 		},
 		{
 			"country": "촉나라",
@@ -1551,8 +1551,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 빙결,쓰러짐",
 			"skill2": "<span class=\"badge\">아군 1명</span> 보호막",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 다리묶기",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -1565,8 +1565,8 @@
 			"etc": "태수,조공30",
 			"skill1": "<span class=\"badge\">임의적 주변</span> 쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (실명) 혼란",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (적군사망) 기력증가",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "오나라",
@@ -1579,8 +1579,8 @@
 			"etc": "태수,조공30",
 			"skill1": "<span class=\"badge\">적 전체</span> 화상,쓰러짐",
 			"skill2": "<span class=\"badge\">적 1명</span> (화상) 쓰러짐",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (적 화상) 기력증가",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "오나라",
@@ -1607,8 +1607,8 @@
 			"etc": "태수",
 			"skill1": "<span class=\"badge\">적 전체</span> 기절",
 			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 화상",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "한나라",
@@ -1621,8 +1621,8 @@
 			"etc": "태수",
 			"skill1": "<span class=\"badge\">아군 전체</span> 치유",
 			"skill2": "<span class=\"badge\">적 1열</span> 저항감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (기절) 기력 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "오나라",
@@ -1720,7 +1720,7 @@
 			"skill1": "<span class=\"badge\">적 전체</span> 기절",
 			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 치유,정화",
 			"skill3": "-",
-			"skill4": "<span class=\"badge\">패시브</span> 치명증가"
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "한나라",
@@ -1775,8 +1775,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">아군 최대 6회</span> 치유,원소저항",
 			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 치유,정화",
-			"skill3": "<span class=\"badge\">패시브</span> 치명증가",
-			"skill4": "<span class=\"badge\">패시브</span> 연타증가"
+			"skill3": "<span class=\"badge\">패시브</span> 치명도 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 연타 증가"
 		},
 		{
 			"country": "위나라",
@@ -1803,8 +1803,8 @@
 			"etc": "아이템15",
 			"skill1": "<span class=\"badge\">적 전체</span> 자연피해",
 			"skill2": "<span class=\"badge\">아군 1명</span> 보호막",
-			"skill3": "<span class=\"badge\">패시브</span> 치명증가",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill3": "<span class=\"badge\">패시브</span> 치명도 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -1817,8 +1817,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">아군 전체</span> 치유",
 			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 보호막",
-			"skill3": "<span class=\"badge\">패시브</span> 치명증가",
-			"skill4": "<span class=\"badge\">패시브</span> 연타증가"
+			"skill3": "<span class=\"badge\">패시브</span> 치명도 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 연타 증가"
 		},
 		{
 			"country": "한나라",
@@ -2153,8 +2153,8 @@
 			"etc": "태수,조공30",
 			"skill1": "<span class=\"badge\">임의적 4명</span> 공속감소",
 			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (적군사망) 기력 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "촉나라",
@@ -2167,8 +2167,8 @@
 			"etc": "태수,조공30",
 			"skill1": "<span class=\"badge\">적 최대 4명</span> 화상",
 			"skill2": "<span class=\"badge\">적 최대 2명</span> 실명",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (적군 사망시) 기력증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "촉나라",
@@ -2195,8 +2195,8 @@
 			"etc": "금화10",
 			"skill1": "<span class=\"badge\">적 최대 3명</span> 혼란",
 			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">패시브</span> 치명도 증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "오나라",
@@ -2210,7 +2210,7 @@
 			"skill1": "<span class=\"badge\">적 전체</span> 침묵",
 			"skill2": "<span class=\"badge\">아군 1명</span> (해로운효과) 치유, 정화",
 			"skill3": "<span class=\"badge\">적 1명</span> (아군 사망) 혼란",
-			"skill4": "<span class=\"badge\">패시브</span> 공격"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "한나라",
@@ -2223,8 +2223,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">임의적 6명</span> 출혈<br><span class=\"badge\">아군 전체</span> 돌풍",
 			"skill2": "<span class=\"badge\">적 1명</span> 기력감소",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">자신</span> (적 출혈) 공격 증가",
+			"skill4": "<span class=\"badge\">적 1,2열중 1명</span> (전투시작) 매달기,징표"
 		},
 		{
 			"country": "한나라",
@@ -2305,7 +2305,7 @@
 			"int": 16,
 			"dex": 63,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">아군 1열</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 1열</span> 공격 증가",
 			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 쓰러짐",
 			"skill3": "-",
 			"skill4": "-"
@@ -2391,8 +2391,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 높이뜸,공포",
 			"skill2": "<span class=\"badge\">아군 1명</span> 치유",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (웨이브시작) 공속증가",
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "위나라",
@@ -2405,8 +2405,8 @@
 			"etc": "태수,조공20",
 			"skill1": "<span class=\"badge\">임의적 5발</span> 공포,어둠저항감소",
 			"skill2": "<span class=\"badge\">아군 1명</span> (침묵) 보호막",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 2명</span> (사망) 공속증가",
+			"skill4": "<span class=\"badge\">아군 전체</span> (전투시작) 연타100%"
 		},
 		{
 			"country": "위나라",
@@ -2515,7 +2515,7 @@
 			"int": 630,
 			"dex": 630,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">아군 전체</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 전체</span> 공격 증가",
 			"skill2": "<span class=\"badge\">아군 전체</span> 치유,정화",
 			"skill3": "<span class=\"badge\">아군 전체</span> 치유, 정화",
 			"skill4": "<span class=\"badge\">자신</span> (아군 사망) 기력 증가"
@@ -2557,10 +2557,10 @@
 			"int": 481,
 			"dex": 418,
 			"etc": "태수,조공20",
-			"skill1": "<span class=\"badge\">아군 전체</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 전체</span> 공격 증가",
 			"skill2": "<span class=\"badge\">아군 전체</span> 치유,정화",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">적 전체</span> (아군사망) 침묵",
+			"skill4": "<span class=\"badge\">자신</span> (아군사망) 기력 증가"
 		},
 		{
 			"country": "한나라",
@@ -2587,8 +2587,8 @@
 			"etc": "태수,조공20",
 			"skill1": "<span class=\"badge\">임의적 6회</span> 공속감소",
 			"skill2": "<span class=\"badge\">아군 1명</span> 방탄",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 전체</span> (침묵) 보호막",
+			"skill4": "<span class=\"badge\">아군 전체</span> (독) 방탄"
 		},
 		{
 			"country": "한나라",
@@ -2613,7 +2613,7 @@
 			"int": 255,
 			"dex": 203,
 			"etc": "태수,조공10",
-			"skill1": "<span class=\"badge\">아군 전체</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 전체</span> 공격 증가",
 			"skill2": "<span class=\"badge\">아군 1명</span> 치유",
 			"skill3": "-",
 			"skill4": "-"
@@ -2655,7 +2655,7 @@
 			"int": 136,
 			"dex": 117,
 			"etc": "태수",
-			"skill1": "<span class=\"badge\">아군 전체</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 전체</span> 공격 증가",
 			"skill2": "<span class=\"badge\">아군 1명</span> (침묵) 보호막",
 			"skill3": "-",
 			"skill4": "-"
@@ -2683,7 +2683,7 @@
 			"int": 143,
 			"dex": 124,
 			"etc": "태수",
-			"skill1": "<span class=\"badge\">아군 전체</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 전체</span> 공격 증가",
 			"skill2": "<span class=\"badge\">아군 1명</span> (기절)(쓰러짐) 무적",
 			"skill3": "-",
 			"skill4": "-"
@@ -2727,8 +2727,8 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">임의적 4발</span>",
 			"skill2": "<span class=\"badge\">적 1명</span> 기절",
-			"skill3": "-",
-			"skill4": "-"
+			"skill3": "<span class=\"badge\">아군 1명</span> (아군사망) 보호막",
+			"skill4": "<span class=\"badge\">적 최대 2명</span> (기본공격9회) 번개피해"
 		},
 		{
 			"country": "황건적",
@@ -2893,7 +2893,7 @@
 			"int": 69,
 			"dex": 76,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">아군 1열</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 1열</span> 공격 증가",
 			"skill2": "<span class=\"badge\">적 1명</span> (빙결) 쓰러짐",
 			"skill3": "-",
 			"skill4": "-"
@@ -2922,7 +2922,7 @@
 			"dex": 74,
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1,2열</span> 독",
-			"skill2": "<span class=\"badge\">자신</span> 공격증가",
+			"skill2": "<span class=\"badge\">자신</span> 공격 증가",
 			"skill3": "-",
 			"skill4": "-"
 		},
@@ -3036,7 +3036,7 @@
 			"skill1": "<span class=\"badge\">적 후방 6회</span> 높이뜸,기력감소",
 			"skill2": "<span class=\"badge\">적 1명</span> (기절) 빙결",
 			"skill3": "<span class=\"badge\">적 1열</span> (적 사망) 방어감소",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "황건적",
@@ -3050,7 +3050,7 @@
 			"skill1": "<span class=\"badge\">아군 전체</span> 치유",
 			"skill2": "<span class=\"badge\">아군 1명</span> 보호막",
 			"skill3": "<span class=\"badge\">적 1명</span> (아군 사망) 혼란",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "황건적",
@@ -3064,7 +3064,7 @@
 			"skill1": "<span class=\"badge\">임의적 5명</span> 공포, 어둠저항감소",
 			"skill2": "<span class=\"badge\">적 1명</span> (높이뜸) 쓰러짐",
 			"skill3": "<span class=\"badge\">적 1명</span> (공격8회) 화염피해,밀치기",
-			"skill4": "<span class=\"badge\">패시브</span> 치명증가"
+			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
 		},
 		{
 			"country": "황건적",
@@ -3174,7 +3174,7 @@
 			"dex": 616,
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 전체</span> 출혈,기절",
-			"skill2": "<span class=\"badge\">아군 1열</span> 공격증가",
+			"skill2": "<span class=\"badge\">아군 1열</span> 공격 증가",
 			"skill3": "<span class=\"badge\">적 1명</span> (기본공격8회) 피해증가",
 			"skill4": "<span class=\"badge\">패시브</span> 체력증가"
 		},
@@ -3190,7 +3190,7 @@
 			"skill1": "<span class=\"badge\">아군 전체</span> 지속치유,정화",
 			"skill2": "<span class=\"badge\">아군 1명</span> 보호막",
 			"skill3": "<span class=\"badge\">아군 전체</span> (웨이브시작) 지속치유",
-			"skill4": "<span class=\"badge\">패시브</span> 공격증가"
+			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
 			"country": "촉나라",
@@ -3245,7 +3245,7 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">적 1열</span> 높이뜸,빙결",
 			"skill2": "<span class=\"badge\">적 1명</span> (실명) 빙결,쓰러짐",
-			"skill3": "<span class=\"badge\">자신</span> (아군 출혈) 치명타 증가",
+			"skill3": "<span class=\"badge\">자신</span> (아군 출혈) 치명타100%",
 			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"
 		},
 		{
@@ -3299,7 +3299,7 @@
 			"int": 534,
 			"dex": 360,
 			"etc": "-",
-			"skill1": "<span class=\"badge\">아군 전체</span> 공격증가",
+			"skill1": "<span class=\"badge\">아군 전체</span> 공격 증가",
 			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
 			"skill3": "<span class=\"badge\">아군 전체</span> (웨이브시작) 공속증가",
 			"skill4": "<span class=\"badge\">패시브</span> 공격 증가"

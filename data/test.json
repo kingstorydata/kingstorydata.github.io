@@ -2503,7 +2503,7 @@
 			"etc": "-",
 			"skill1": "<span class=\"badge\">아군 전체</span> 공격 증가",
 			"skill2": "<span class=\"badge\">아군 전체</span> 치유,정화",
-			"skill3": "<span class=\"badge\">아군 전체</span> 치유, 정화",
+			"skill3": "<span class=\"badge\">적 전체</span> (아군 사망) 침묵",
 			"skill4": "<span class=\"badge\">자신</span> (아군 사망) 기력 증가"
 		},
 		{

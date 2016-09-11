@@ -586,7 +586,7 @@
 			"skill1": "<span class=\"badge\">적 1,2열</span> 기절",
 			"skill2": "<span class=\"badge\">적 최대 2명</span> 침묵",
 			"skill3": "<span class=\"badge\">패시브</span> 피해감소",
-			"skill4": "<span class=\"badge\">자신</span> (치명타 받을때) 보호막"
+			"skill4": "<span class=\"badge\">자신</span> (기본공격6회) 보호막"
 		},
 		{
 			"country": "위나라",
@@ -1213,7 +1213,7 @@
 			"int": 360,
 			"dex": 516,
 			"etc": "태수",
-			"skill1": "<span class=\"badge\">적 1,2열 중 최대3명</span> 쓰러짐",
+			"skill1": "<span class=\"badge\">적 1,2열 중 최대3명</span> 쓰러짐,빙결",
 			"skill2": "<span class=\"badge\">적 1명</span> (쓰러짐) 방어감소",
 			"skill3": "<span class=\"badge\">적 4명</span> (기본공격8회) 공격감소",
 			"skill4": "<span class=\"badge\">패시브</span> 치명도 증가"
